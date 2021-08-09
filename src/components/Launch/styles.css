@@ -1,0 +1,18 @@
+.Launch {
+  background-color: rgba(255, 255, 0, 0.415);
+  height: 320px;
+  width: 58%;
+  margin-top: 15px;
+  margin-left: 15px;
+  padding: 8px;
+  display: flex;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
+    rgba(0, 0, 0, 0.22) 0px 15px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.Launch img {
+  height: 300px;
+  width: 200px;
+  padding: 10px;
+}
